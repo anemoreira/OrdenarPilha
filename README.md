@@ -1,2 +1,1 @@
-# Project_9
-Java
+Atividade da disciplina de estrutura de dados
